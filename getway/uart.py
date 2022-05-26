@@ -3,7 +3,7 @@ import threading
 from time import sleep
 import serial
 
-
+test = 11
 
 
 class UART:
